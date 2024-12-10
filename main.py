@@ -5,7 +5,7 @@ import time
 
 from Google_Search import *
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "sk-SnbOanDfq9qtShY1oaT3BlbkFJeIJtsVyWIhS7C5Zu51JQ"
 FirstTimeRunning = True
 
 #Get the audio from microphone
